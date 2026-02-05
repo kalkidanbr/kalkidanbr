@@ -1,6 +1,8 @@
 # Hi, I’m Kalkidan Birhane ✨
 
-I am a 3rd-year Computer Science student at Adama Science and Technology University, passionate about building web applications and growing as a Full-Stack Developer.
+I am a 3rd-year Computer Science student at Adama Science and Technology University, passionate about building web applications 
+and growing as a Full-Stack Developer.
+
 
  🔭 I’m currently working on **frontend development** (React, HTML, CSS, JavaScript)  
  🌱 I’m currently learning **backend development** (Node.js, Express, Databases)  
@@ -24,6 +26,5 @@ I am a 3rd-year Computer Science student at Adama Science and Technology Univers
 ---
 
 ## 📈 GitHub Stats
-[![Kalkidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalkidanbr&show_icons=true&theme=radical)
-](https://github-readme-stats.vercel.app/api?username=kalkidanbr&show_icons=true&theme=radical
-)
+![Kalkidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalkidanbr&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalkidanbr&layout=compact&theme=radical)
