@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I’m Kalkidan Birhane ✨
 
-<!--
-**kalkidanbr/kalkidanbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 3rd-year Computer Science student at Adama Science and Technology University, passionate about building web applications and growing as a Full-Stack Developer.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **frontend development** (React, HTML, CSS, JavaScript)  
+- 🌱 I’m currently learning **backend development** (Node.js, Express, Databases)  
+- 👯 I’m looking to collaborate on **team projects** and get involved in **tech communities**  
+- 🤔 I’m looking for help with **advanced backend concepts, database optimization, and real-world project deployment**  
+- 💬 Ask me about **frontend development, JavaScript, React, Node.js, and my projects**  
+- ⚡ Fun fact: **I enjoy exploring new places and discovering new experiences**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack & Tools
+- **Frontend:** React, HTML5, CSS3, JavaScript (ES6+)  
+- **Backend:** Node.js, Express.js  
+- **Databases:** MongoDB, MySQL  
+- **Tools:** Git, GitHub, VS Code, Postman  
+
+---
+
+- 📫 Contact me: **kalkidanbirhane156@gmail.com**  
+
+---
+
+## 📈 GitHub Stats
+![Kalkidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalkidanbr&show_icons=true&theme=radical)
