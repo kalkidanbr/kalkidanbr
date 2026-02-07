@@ -1,4 +1,4 @@
-# Hey, My name Kalkidan Birhane ✨
+# Hey, My name Kalkidan Birhane 
 
 I am a 3rd-year Computer Science student at Adama Science and Technology University, passionate about building web applications 
 and growing as a Full-Stack Developer.
