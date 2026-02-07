@@ -25,6 +25,3 @@ and growing as a Full-Stack Developer.
 
 ---
 
-## 📈 GitHub Stats
-![Kalkidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalkidanbr&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalkidanbr&layout=compact&theme=radical)
